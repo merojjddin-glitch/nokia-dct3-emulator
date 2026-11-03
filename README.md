@@ -84,7 +84,7 @@ engine. ROM-4 does camp and registration only, with no calls, SMS or circuit-swi
 | **6250** | NHM-3 v5.00 | ROM-6 | ✅ | ✅ | ✅ | ✅ | ✅ | 6210 sibling. Additionally needs a repair of this library image's inconsistent RF-calibration checksum and the DSP-in-reset status-bit model |
 | **7110** | NSE-5 v5.00 | ROM-4 | ✅ | ✅ | — | — | — | SED1565 display; RE'd keypad and Navi roller (mouse-wheel or arrows scroll, press to select). Slow boot, then key-navigable registered standby. Has a WAP browser but binds ROM-4, so no CSD bearer |
 | **8210** | NSM-3 v5.31 | ROM-6 | ✅ | ✅ | ✅ | ✅ | — | Security-code screen at boot. Registers with correct EEPROM security settings |
-| **8250** | NSM-3D v6.02 | ROM-6 | ✅ | ✅ | ✅ | ✅ | — | As the 8210 |
+| **8250.nokia ** | NSM-3D v6.02 | ROM-6 | ✅ | ✅ | ✅ | ✅ | — | As the 8210 |
 | **8290** | NSB-7 v5.22 | ROM-6 | 🟡 | — | — | — | — | Contact Service. DSP-upload handshake RE pending |
 | **8810** | NSE-6 v6.02 | ROM-4 | ✅ | ✅ | — | — | — | 6110-family slider (2 MB, own external-EEPROM blob). Registered standby, keypad interactive. Slide cover not modelled |
 | **8850** | NSM-2 v5.31 | ROM-6 | ✅ | ✅ | ✅ | ✅ | — | NSM Family-A reference. As the 8210 |
